@@ -1,0 +1,6 @@
+{
+  "parent": "antiblock:block/noshadow",
+  "textures": {
+    "all": "antiblock:cyan"
+  }
+}

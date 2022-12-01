@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "XBX",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_stone"
+    },
+    "X": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "B": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "result": {
+    "item": "antiblock:gray_antiblock",
+    "count": 8
+  }
+}

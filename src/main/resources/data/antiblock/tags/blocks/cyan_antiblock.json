@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "antiblock:black_antiblock",
+    "antiblock:white_antiblock",
+    "antiblock:blue_antiblock",
+    "antiblock:brown_antiblock",
+    "antiblock:gray_antiblock",
+    "antiblock:green_antiblock",
+    "antiblock:light_blue_antiblock",
+    "antiblock:light_gray_antiblock",
+    "antiblock:lime_antiblock",
+    "antiblock:magenta_antiblock",
+    "antiblock:orange_antiblock",
+    "antiblock:pink_antiblock",
+    "antiblock:purple_antiblock",
+    "antiblock:red_antiblock",
+    "antiblock:yellow_antiblock"
+  ]
+}
